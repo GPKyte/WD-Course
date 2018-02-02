@@ -1,0 +1,45 @@
+Lecture on Design
+
+Design:
+1) Elements
+    Line(Solid and Implied)
+        Character of line affects interpretation
+        * Eyes go to areas of highest contrast
+    Shape
+        Visceral connotations
+    Value
+        Creates mood, functional, limits chaos
+    Texture
+        Create haptic(felt) response
+    Color
+        Hue is pure color
+        Value is lightness, darkness
+        Saturation is intesity of color
+    Typography(Difficult)
+        scale, kerning(space btwn letters), leading(space btwn lines),
+            density, case, italic, bold, & color
+        Should vary with type of information
+2) Principles
+    Balance(visceral)
+        Ties in with perceived weight
+        Symmetry vs Assymetry
+    Proportion
+        Rule of thirds, Golden ratio
+        Harmony vs discord
+        Should be intensional and obvious
+    Movement
+        Orthogonals-- Guiding lines to direct movement
+        Tension
+            Focal points
+    Unity & Variety
+        Create unity to break it with difference
+        Repetition brings unity
+        Limit variables
+        Start from place of unity
+3) Composition
+    Grids
+        Modular grid -- all sections the same size
+
+Start with simple grid
+limit variables
+Make sure your hierarchy is clear
