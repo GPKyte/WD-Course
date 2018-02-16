@@ -1,0 +1,12 @@
+paralax - Some things stay the same and others move
+
+Web Design Criteria
+* Grid
+* Hierarchy
+* Color Scheme
+* Unity/Variety
+* Neg./Pos. Space
+
+mova type, losttype
+
+
