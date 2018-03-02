@@ -6,6 +6,7 @@
 	width: 100%;
 	max-height: 200px;
 	height: 200px;
+	display: flex;
 }
 #left {
 	margin: 56px auto;
