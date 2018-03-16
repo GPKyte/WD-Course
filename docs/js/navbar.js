@@ -69,6 +69,7 @@
         resizeFix = function() {
           if ($(window).width() > settings.breakpoint) {
             navbar.find('ul').show();
+            navbar.find('img').show();
             navbar.removeClass('small-screen');
             if (settings.format === 'select') {
               navbar.find('select').hide();
@@ -80,6 +81,7 @@
 
           if ($(window).width() <= settings.breakpoint && !navbar.hasClass("small-screen")) {
             navbar.find('ul').hide().removeClass('open');
+            navbar.find('img').hide();
             navbar.addClass('small-screen');
             if (settings.format === 'select') {
               navbar.find('select').show();
