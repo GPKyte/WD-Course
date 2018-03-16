@@ -1,6 +1,13 @@
 @charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Raleway);
 /* CSS Document */
-
+p, h1, h3, h5 {
+	font-family: Raleway, sans-serif;
+}
+h5 {
+	/*Make this bold somehow*/
+	/*font-weight: 400;*/
+}
 .jumbotron {
 	background-color: black;
 	width: 100%;
@@ -74,11 +81,12 @@
 	margin: auto;
 }
 .blurb h5 {
-	font-size: 14px;
+	font-size: 18px;
 	margin: 4px auto 0;
 }
 .blurb p {
-	margin: 4px auto 0
+	margin: 4px auto 0;
+	display: none;
 }
 .blurb .icon {
 	margin: 0 auto;
