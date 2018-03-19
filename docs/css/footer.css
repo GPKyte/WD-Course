@@ -26,10 +26,7 @@ footer {
   width: auto;
   font-family: Raleway, sans-serif;
   line-height: 1;
-	position: fixed;
-	left: 0;
-	right: 0;
-	bottom: 0;
+	position: relative;
   background-color: #333333;
   text-align: center;
 }
