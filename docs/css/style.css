@@ -3,16 +3,11 @@
 /* CSS Document */
 p, h1, h3, h5 {
 	font-family: Raleway, sans-serif;
-}
-h5 {
-	/*Make this bold somehow*/
-	/*font-weight: 400;*/
+	font-size: 18px;
 }
 .jumbotron {
 	background-color: black;
 	width: 100%;
-	max-height: 200px;
-	min-height: 200px;
 	height: 200px;
 	display: flex;
 	overflow: hidden;
@@ -33,10 +28,10 @@ h5 {
 	margin: 56px 20px;
 }
 #showing {
-	width: 80%;
-	min-height: inherit;
+	width: auto;
+	height: inherit;
 	position: absolute;
-	top: 150px;
+	top: 0px;
 	left: 0px;
 	right: 0px;
 	bottom: 0px;
@@ -79,7 +74,6 @@ h5 {
 	margin: auto;
 }
 .blurb h5 {
-	font-size: 18px;
 	margin: 4px auto 0;
 }
 .blurb p {
@@ -94,6 +88,9 @@ h5 {
 	border-style: solid;
 	border-radius: 100%;
 }
-#hours {
-
+#hours h5 {
+  margin-bottom: 0;
+}
+#hours p {
+  margin-top: 5px;
 }
