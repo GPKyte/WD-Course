@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1523901058214">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4139848417" ref="contact:index:projects:gsuite"/>
+    <file name="contact.css" crc="122075940" ref="contact"/>
+    <file name="index.css" crc="406698781" ref="index"/>
+    <file name="iefonts_index.css" crc="4072703050" ref="index"/>
+    <file name="projects.css" crc="4282589964" ref="projects"/>
+    <file name="gsuite.css" crc="3851257644" ref="gsuite"/>
+    <file name="iefonts_gsuite.css" crc="4102651124" ref="gsuite"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:contact:gsuite"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:contact:gsuite"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:contact:gsuite"/>
+    <file name="museconfig.js" crc="310584261" ref="index:projects:contact:gsuite"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projects:gsuite"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:projects:contact:gsuite"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:contact:gsuite"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:gsuite"/>
+    <file name="require.js" crc="7928878" ref="index:projects:contact:gsuite"/>
+  </folder>
+  <folder name="images">
+    <file name="macdesksetup.jpg" crc="4215746255" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abstractsquares.jpg" crc="4090440641" ref="projects:gsuite">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="349288408" seo="true" mt="1523859895014" redirect="true"/>
+  <file name="projects.html" crc="300943963" seo="true" mt="1523901056807" redirect="true"/>
+  <file name="contact.html" crc="3974407129" seo="true" mt="1523859895014" redirect="true"/>
+  <file name="gsuite.html" crc="108637150" seo="true" mt="1523901056808" redirect="true"/>
+</manifest>
