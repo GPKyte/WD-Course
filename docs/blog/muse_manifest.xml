@@ -1,24 +1,30 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1523901058214">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1524016956411">
+  <folder name="assets">
+    <file name="gavinkyte_resume_03-7-18.pdf" crc="368589080" seo="true" mt="1520892330000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4139848417" ref="contact:index:projects:gsuite"/>
-    <file name="contact.css" crc="122075940" ref="contact"/>
-    <file name="index.css" crc="406698781" ref="index"/>
-    <file name="iefonts_index.css" crc="4072703050" ref="index"/>
-    <file name="projects.css" crc="4282589964" ref="projects"/>
-    <file name="gsuite.css" crc="3851257644" ref="gsuite"/>
-    <file name="iefonts_gsuite.css" crc="4102651124" ref="gsuite"/>
+    <file name="index.css" crc="398481722" ref="index"/>
+    <file name="iefonts_index.css" crc="57456996" ref="index"/>
+    <file name="projects.css" crc="3907443969" ref="projects"/>
+    <file name="gsuite.css" crc="3805043612" ref="gsuite"/>
+    <file name="iefonts_gsuite.css" crc="297127832" ref="gsuite"/>
+    <file name="master_project-master.css" crc="401306765" ref="hack8451:gsuite"/>
+    <file name="master_main-master.css" crc="3952190205" ref="hack8451:index:projects:gsuite"/>
+    <file name="hack8451.css" crc="408326049" ref="hack8451"/>
+    <file name="iefonts_hack8451.css" crc="4095628872" ref="hack8451"/>
+    <file name="iefonts_projects.css" crc="408056019" ref="projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:contact:gsuite"/>
-    <file name="museutils.js" crc="340535759" ref="index:projects:contact:gsuite"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:contact:gsuite"/>
-    <file name="museconfig.js" crc="310584261" ref="index:projects:contact:gsuite"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:gsuite:hack8451"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:gsuite:hack8451"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:gsuite:hack8451"/>
+    <file name="museconfig.js" crc="310584261" ref="index:projects:gsuite:hack8451"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projects:gsuite"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:projects:contact:gsuite"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:projects:contact:gsuite"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:projects:contact:gsuite"/>
-    <file name="require.js" crc="7928878" ref="index:projects:contact:gsuite"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:projects:gsuite:hack8451"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:gsuite:hack8451"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:gsuite:hack8451"/>
+    <file name="require.js" crc="7928878" ref="index:projects:gsuite:hack8451"/>
   </folder>
   <folder name="images">
     <file name="macdesksetup.jpg" crc="4215746255" ref="index">
@@ -29,8 +35,8 @@
       <caption webpage="gsuite" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="349288408" seo="true" mt="1523859895014" redirect="true"/>
-  <file name="projects.html" crc="300943963" seo="true" mt="1523901056807" redirect="true"/>
-  <file name="contact.html" crc="3974407129" seo="true" mt="1523859895014" redirect="true"/>
-  <file name="gsuite.html" crc="108637150" seo="true" mt="1523901056808" redirect="true"/>
+  <file name="index.html" crc="3945636694" seo="true" mt="1523936285877" redirect="true"/>
+  <file name="projects.html" crc="3808173125" seo="true" mt="1523935401177" redirect="true"/>
+  <file name="gsuite.html" crc="281266558" seo="true" mt="1523935401177" redirect="true"/>
+  <file name="hack8451.html" crc="247195339" seo="true" mt="1523935401177" redirect="true"/>
 </manifest>
