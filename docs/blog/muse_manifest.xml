@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1524016956411">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1524253741944">
   <folder name="assets">
     <file name="gavinkyte_resume_03-7-18.pdf" crc="368589080" seo="true" mt="1520892330000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="398481722" ref="index"/>
-    <file name="iefonts_index.css" crc="57456996" ref="index"/>
-    <file name="projects.css" crc="3907443969" ref="projects"/>
-    <file name="gsuite.css" crc="3805043612" ref="gsuite"/>
+    <file name="index.css" crc="4028920792" ref="index"/>
+    <file name="iefonts_index.css" crc="12023501" ref="index"/>
+    <file name="projects.css" crc="3965104032" ref="projects"/>
+    <file name="gsuite.css" crc="3770083701" ref="gsuite"/>
     <file name="iefonts_gsuite.css" crc="297127832" ref="gsuite"/>
     <file name="master_project-master.css" crc="401306765" ref="hack8451:gsuite"/>
-    <file name="master_main-master.css" crc="3952190205" ref="hack8451:index:projects:gsuite"/>
-    <file name="hack8451.css" crc="408326049" ref="hack8451"/>
+    <file name="master_main-master.css" crc="195545266" ref="hack8451:index:projects:gsuite"/>
+    <file name="hack8451.css" crc="4198218565" ref="hack8451"/>
     <file name="iefonts_hack8451.css" crc="4095628872" ref="hack8451"/>
-    <file name="iefonts_projects.css" crc="408056019" ref="projects"/>
+    <file name="iefonts_projects.css" crc="4014918691" ref="projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:gsuite:hack8451"/>
@@ -30,13 +30,33 @@
     <file name="macdesksetup.jpg" crc="4215746255" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="abstractsquares.jpg" crc="4090440641" ref="projects:gsuite">
+    <file name="abstractsquares.jpg" crc="4090440641" ref="projects:gsuite:index">
       <caption webpage="projects" alt=""/>
       <caption webpage="gsuite" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github.png" crc="267637740" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="twitter.png" crc="515507044" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="linkedincircle.png" crc="141065004" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3945636694" seo="true" mt="1523936285877" redirect="true"/>
-  <file name="projects.html" crc="3808173125" seo="true" mt="1523935401177" redirect="true"/>
-  <file name="gsuite.html" crc="281266558" seo="true" mt="1523935401177" redirect="true"/>
-  <file name="hack8451.html" crc="247195339" seo="true" mt="1523935401177" redirect="true"/>
+  <file name="index.html" crc="3808479731" seo="true" mt="1524253428579" redirect="true"/>
+  <file name="projects.html" crc="291175197" seo="true" mt="1524253712217" redirect="true"/>
+  <file name="gsuite.html" crc="5848447" seo="true" mt="1524253653530" redirect="true"/>
+  <file name="hack8451.html" crc="62581491" seo="true" mt="1524253428579" redirect="true"/>
 </manifest>

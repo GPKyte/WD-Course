@@ -2,27 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://gavinkyte.com/blog/index.html</loc>
-    <lastmod>2018-04-16</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/projects.html</loc>
-    <lastmod>2018-04-16</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/gsuite.html</loc>
-    <lastmod>2018-04-16</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/hack8451.html</loc>
-    <lastmod>2018-04-16</lastmod>
+    <lastmod>2018-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/assets/gavinkyte_resume_03-7-18.pdf</loc>
