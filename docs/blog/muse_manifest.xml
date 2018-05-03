@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1524253741944">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinkyte.com/blog" resolutions="1x" timestamp="1525390343887">
   <folder name="assets">
     <file name="gavinkyte_resume_03-7-18.pdf" crc="368589080" seo="true" mt="1520892330000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4028920792" ref="index"/>
-    <file name="iefonts_index.css" crc="12023501" ref="index"/>
-    <file name="projects.css" crc="3965104032" ref="projects"/>
-    <file name="gsuite.css" crc="3770083701" ref="gsuite"/>
-    <file name="iefonts_gsuite.css" crc="297127832" ref="gsuite"/>
-    <file name="master_project-master.css" crc="401306765" ref="hack8451:gsuite"/>
-    <file name="master_main-master.css" crc="195545266" ref="hack8451:index:projects:gsuite"/>
-    <file name="hack8451.css" crc="4198218565" ref="hack8451"/>
-    <file name="iefonts_hack8451.css" crc="4095628872" ref="hack8451"/>
-    <file name="iefonts_projects.css" crc="4014918691" ref="projects"/>
+    <file name="index.css" crc="418722787" ref="index"/>
+    <file name="iefonts_index.css" crc="238931646" ref="index"/>
+    <file name="projects.css" crc="4156744866" ref="projects"/>
+    <file name="gsuite.css" crc="4197796270" ref="gsuite"/>
+    <file name="iefonts_gsuite.css" crc="341335498" ref="gsuite"/>
+    <file name="master_project-master.css" crc="445030538" ref="hack8451:gsuite"/>
+    <file name="master_main-master.css" crc="443371254" ref="hack8451:index:projects:gsuite"/>
+    <file name="hack8451.css" crc="163519745" ref="hack8451"/>
+    <file name="iefonts_hack8451.css" crc="4007547212" ref="hack8451"/>
+    <file name="iefonts_projects.css" crc="3950398558" ref="projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:gsuite:hack8451"/>
     <file name="museutils.js" crc="340535759" ref="index:projects:gsuite:hack8451"/>
     <file name="whatinput.js" crc="86476730" ref="index:projects:gsuite:hack8451"/>
     <file name="museconfig.js" crc="310584261" ref="index:projects:gsuite:hack8451"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projects:gsuite"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:projects"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:projects:gsuite:hack8451"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:projects:gsuite:hack8451"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:projects:gsuite:hack8451"/>
@@ -30,33 +30,71 @@
     <file name="macdesksetup.jpg" crc="4215746255" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="abstractsquares.jpg" crc="4090440641" ref="projects:gsuite:index">
+    <file name="abstractsquares.jpg" crc="4090440641" ref="projects">
       <caption webpage="projects" alt=""/>
       <caption webpage="gsuite" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="github.png" crc="267637740" seo="true" ref="index:projects:gsuite:hack8451">
-      <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="gsuite" alt=""/>
-      <caption webpage="gsuite" alt=""/>
-      <caption webpage="hack8451" alt=""/>
-    </file>
-    <file name="twitter.png" crc="515507044" seo="true" ref="index:projects:gsuite:hack8451">
+    <file name="github.png" crc="4129594955" seo="true" ref="gsuite">
       <caption webpage="index" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="gsuite" alt=""/>
       <caption webpage="hack8451" alt=""/>
     </file>
-    <file name="linkedincircle.png" crc="141065004" seo="true" ref="index:projects:gsuite:hack8451">
+    <file name="hackathon_group_pic.jpg" crc="4074118132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gsuite.png" crc="3908453355" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-bg.jpg" crc="4224769906" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-4-128(1).png" crc="4144797335" seo="true" ref="index:projects:gsuite:hack8451">
       <caption webpage="index" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="gsuite" alt=""/>
       <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="github-9-128.png" crc="3857560912" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="facebook-4-128.png" crc="154658354" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="linkedin-4-128.png" crc="3918632050" seo="true" ref="index:projects:gsuite:hack8451">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="gsuite" alt=""/>
+      <caption webpage="hack8451" alt=""/>
+    </file>
+    <file name="java.png" crc="393712929" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="gsuite123x125.png" crc="3982789145" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="node-js-736399_1280.png" crc="3987340425" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bash.png" crc="112704476" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="gradle.png" crc="294451724" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="python.png" crc="4250503940" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3808479731" seo="true" mt="1524253428579" redirect="true"/>
-  <file name="projects.html" crc="291175197" seo="true" mt="1524253712217" redirect="true"/>
-  <file name="gsuite.html" crc="5848447" seo="true" mt="1524253653530" redirect="true"/>
-  <file name="hack8451.html" crc="62581491" seo="true" mt="1524253428579" redirect="true"/>
+  <file name="index.html" crc="238244593" seo="true" mt="1525390239475" redirect="true"/>
+  <file name="projects.html" crc="73996552" seo="true" mt="1525390239475" redirect="true"/>
+  <file name="gsuite.html" crc="3886843147" seo="true" mt="1525390239475" redirect="true"/>
+  <file name="hack8451.html" crc="4214945799" seo="true" mt="1525390239475" redirect="true"/>
 </manifest>

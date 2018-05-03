@@ -2,62 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://gavinkyte.com/blog/index.html</loc>
-    <lastmod>2018-04-20</lastmod>
+    <lastmod>2018-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/twitter-4-128(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/github-9-128.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/facebook-4-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedin-4-128.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/projects.html</loc>
-    <lastmod>2018-04-20</lastmod>
+    <lastmod>2018-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/twitter-4-128(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/github-9-128.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/facebook-4-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedin-4-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/java.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/gsuite123x125.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/node-js-736399_1280.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/bash.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/gradle.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/python.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/gsuite.html</loc>
-    <lastmod>2018-04-20</lastmod>
+    <lastmod>2018-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/twitter-4-128(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/github-9-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/facebook-4-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedin-4-128.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gavinkyte.com/blog/hack8451.html</loc>
-    <lastmod>2018-04-20</lastmod>
+    <lastmod>2018-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/github.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/twitter-4-128(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/twitter.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/github-9-128.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gavinkyte.com/blog/images/linkedincircle.png</image:loc>
+      <image:loc>http://gavinkyte.com/blog/images/facebook-4-128.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gavinkyte.com/blog/images/linkedin-4-128.png</image:loc>
     </image:image>
   </url>
   <url>
